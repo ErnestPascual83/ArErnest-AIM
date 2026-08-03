@@ -1,0 +1,128 @@
+restaurant_id,restaurant_name,cuisine_type,district,weighted_public_rating,total_public_reviews,price_level_1_4,annual_demand_proxy_score_0_100,popularity_class,source,cuisine_group,is_high_popularity
+R001,Tartufo Ristorante,Italian,BGC,4.8,1874,,92.1,High,Google Places (public),Italian,1
+R002,Terraza Martinez,Spanish,BGC,4.8,1577,,91.3,High,Google Places (public),Other,1
+R003,a mano BGC,Italian,BGC,4.8,3061,,94.4,High,Google Places (public),Italian,1
+R004,Bolero,Spanish,BGC,4.8,2001,,92.4,High,Google Places (public),Other,1
+R005,Burnt Bean,Cafe,BGC,4.8,3481,3,95.0,High,Google Places (public),Cafe,1
+R006,Lorenzo's Way,Filipino,BGC,4.3,342,2,78.3,Medium,Google Places (public),Filipino,0
+R007,Hai Chix & Steaks,Steak,BGC,4.7,1923,,91.0,High,Google Places (public),Steak,1
+R008,The Wholesome Table,Western,BGC,4.4,1279,3,85.6,Medium,Google Places (public),Other,0
+R009,The Fat Seed Cafe,Cafe,BGC,4.5,867,,85.0,High,Google Places (public),Cafe,1
+R010,Ikoka Yakitori,Japanese,BGC,4.7,880,,87.5,High,Google Places (public),Japanese,1
+R011,Ramen Ibuki,Japanese,BGC,4.8,959,,89.1,High,Google Places (public),Japanese,1
+R012,Kei Maki,Japanese,BGC,4.8,400,,85.1,High,Google Places (public),Japanese,1
+R013,Umi Matsu,Japanese,BGC,4.7,2574,,92.4,High,Google Places (public),Japanese,1
+R014,Inari Sukiyaki,Japanese,BGC,4.8,843,,88.5,High,Google Places (public),Japanese,1
+R015,Ooma,Japanese,BGC,4.6,2435,3,90.9,High,Google Places (public),Japanese,1
+R016,HIRO PREMIER Yakiniku,Japanese,BGC,5.0,617,,89.4,High,Google Places (public),Japanese,1
+R017,Kiwami,Japanese,BGC,4.4,1294,2,85.6,Medium,Google Places (public),Japanese,0
+R018,Sakagura,Japanese,BGC,4.9,1487,,92.3,High,Google Places (public),Japanese,1
+R019,Ramen Ron,Japanese,BGC,4.8,1880,,92.1,High,Google Places (public),Japanese,1
+R020,Jin Joo Korean Grill,Korean,BGC,4.8,2409,,93.3,High,Google Places (public),Korean,1
+R021,Chung Dam,Korean,BGC,4.8,1662,,91.6,High,Google Places (public),Korean,1
+R022,Soban K-Town Grill,Korean,BGC,4.8,2579,,93.6,High,Google Places (public),Korean,1
+R023,Premier The Samgyupsal Stopover,Korean,BGC,4.8,2173,,92.8,High,Google Places (public),Korean,1
+R024,Tang Korean Restaurant,Korean,BGC,4.6,634,,84.8,High,Google Places (public),Korean,1
+R025,Jjampponggwan,Korean,Taguig,4.9,79,,78.9,Medium,Google Places (public),Korean,0
+R026,BBQ Chicken BGC,Korean,BGC,4.7,2386,,92.0,High,Google Places (public),Korean,1
+R027,Goobne BGC,Korean,BGC,4.8,2809,,94.0,High,Google Places (public),Korean,1
+R028,Premier The Samgyupsal 36th,Korean,BGC,4.6,1987,2,90.0,High,Google Places (public),Korean,1
+R029,Mento Taguig,Filipino,Taguig,4.9,69,,78.3,Medium,Google Places (public),Filipino,0
+R030,George and Onnie's McKinley West,Filipino,Taguig,4.7,164,,79.8,High,Google Places (public),Filipino,1
+R031,George and Onnie's Finance Centre,Filipino,BGC,4.8,637,,87.2,High,Google Places (public),Filipino,1
+R032,Locavore BGC,Filipino,BGC,4.3,1089,2,83.6,Medium,Google Places (public),Filipino,0
+R033,COCHI by Marvin Agustin,Filipino,BGC,4.8,3166,,94.5,High,Google Places (public),Filipino,1
+R034,Abe Park McKinley,Filipino,Taguig,4.8,28,,73.0,Medium,Google Places (public),Filipino,0
+R035,Tong Yang Venice,Buffet,Taguig,4.9,4445,2,97.3,High,Google Places (public),Other,1
+R036,Abe Serendra,Filipino,BGC,4.4,551,2,81.7,Medium,Google Places (public),Filipino,0
+R037,Cafe 17,Fusion,Taguig,4.8,327,,84.1,High,Google Places (public),Other,1
+R038,Manam SM Aura,Filipino,BGC,4.7,1434,,89.7,High,Google Places (public),Filipino,1
+R039,Elephant Grounds,Cafe,BGC,4.2,949,,81.8,Medium,Google Places (public),Cafe,0
+R040,Good Neighbor,Western,BGC,4.0,157,,71.2,Medium,Google Places (public),Other,0
+R041,Caffe Pocofino,Cafe,BGC,4.3,402,,79.1,Medium,Google Places (public),Cafe,0
+R042,Auro Chocolate Cafe,Dessert,BGC,4.3,657,,81.3,Medium,Google Places (public),Other,0
+R043,Hatch + Hoolman Studio,Cafe,Taguig,4.4,201,,77.1,Medium,Google Places (public),Cafe,0
+R044,Wildflour Uptown,Cafe,BGC,4.6,1616,,89.0,High,Google Places (public),Cafe,1
+R045,Key Coffee Kissaten,Cafe,BGC,4.6,2734,,91.4,High,Google Places (public),Cafe,1
+R046,Joide Coffee,Cafe,BGC,4.6,37,,71.9,Medium,Google Places (public),Cafe,0
+R047,Wildflour BGC,Cafe,BGC,4.4,2897,3,89.3,Medium,Google Places (public),Cafe,0
+R048,Six Doors BBQ Buffet,Buffet,BGC,4.2,1380,,83.5,Medium,Google Places (public),Other,0
+R049,Manam Uptown,Filipino,BGC,4.7,2283,,91.8,High,Google Places (public),Filipino,1
+R050,Italianni's Uptown,Italian,BGC,4.8,2097,2,92.6,High,Google Places (public),Italian,1
+R051,Hikiniku To Come,Japanese,BGC,4.7,1090,,88.4,High,Google Places (public),Japanese,1
+R052,PARMIGIANO,Italian,BGC,4.7,1112,,88.5,High,Google Places (public),Italian,1
+R053,Uma Nota Manila,Fusion,BGC,4.8,1305,,90.5,High,Google Places (public),Other,1
+R054,Steak & Frice,Steak,BGC,4.8,4100,,95.7,High,Google Places (public),Steak,1
+R055,Bistrot Le Coucou,French,BGC,4.8,450,,85.6,High,Google Places (public),Other,1
+R056,Mamou Serendra,Steak,BGC,4.9,2374,,94.4,High,Google Places (public),Steak,1
+R057,Morton's The Steakhouse,Steak,BGC,4.9,3646,,96.4,High,Google Places (public),Steak,1
+R058,Smith & Wollensky,Steak,BGC,4.7,158,,79.6,High,Google Places (public),Steak,1
+R059,Raging Bull Chophouse,Steak,BGC,4.6,1405,2,88.4,High,Google Places (public),Steak,1
+R060,Gallery By Chele,Fine Dining,BGC,4.7,609,,85.8,High,Google Places (public),Other,1
+R061,Ogawa Japanese,Japanese,Taguig,4.0,554,3,76.9,Medium,Google Places (public),Japanese,0
+R062,Pizzulu BGC,Italian,BGC,4.7,1503,,89.9,High,Google Places (public),Italian,1
+R063,Italianni's BHS,Italian,BGC,4.8,6207,2,97.6,High,Google Places (public),Italian,1
+R064,Olive Garden BGC,Italian,BGC,4.4,1103,,84.9,Medium,Google Places (public),Italian,0
+R065,Toni & Sergio,Italian,Taguig,4.6,1242,,87.8,High,Google Places (public),Italian,1
+R066,Al Dente Pasta Bar,Italian,BGC,4.6,705,,85.2,High,Google Places (public),Italian,1
+R067,Va Bene Pasta Deli,Italian,BGC,4.6,383,,82.5,High,Google Places (public),Italian,1
+R068,CIBO Ayala 30th,Italian,Pasig,4.8,447,,85.6,High,Google Places (public),Italian,1
+R069,Mama Lou's Ayala 30th,Italian,Pasig,4.5,502,2,82.5,High,Google Places (public),Italian,1
+R070,Sibyullee Ayala 30th,Korean,Pasig,4.9,4802,2,97.6,High,Google Places (public),Korean,1
+R071,Mamou 3.0,Steak,Pasig,4.9,875,,89.8,High,Google Places (public),Steak,1
+R072,Tong Yang One Ayala,Buffet,Makati,4.9,3319,,95.9,High,Google Places (public),Other,1
+R073,Shrimp Bucket Ayala 30th,Seafood,Pasig,4.7,218,,81.1,High,Google Places (public),Seafood,1
+R074,Cafe Mary Grace Ayala 30th,Cafe,Pasig,4.6,50,2,73.2,Medium,Google Places (public),Cafe,0
+R075,Din Tai Fung,Chinese,BGC,4.6,4625,2,93.9,High,Google Places (public),Chinese,1
+R076,The Empress Dining Palace,Chinese,BGC,4.4,300,,78.9,Medium,Google Places (public),Chinese,0
+R077,King Chef Dimsum Kitchen,Chinese,Taguig,5.0,32,,76.0,Medium,Google Places (public),Chinese,0
+R078,CLD Hot & Spicy Food House,Chinese,BGC,4.1,84,,69.5,Medium,Google Places (public),Chinese,0
+R079,Wong Place BGC,Chinese,BGC,4.1,287,,75.1,Medium,Google Places (public),Chinese,0
+R080,AMAH,Chinese,Taguig,4.5,171,,77.6,High,Google Places (public),Chinese,1
+R081,Modern Shanghai Venice,Chinese,Taguig,4.6,359,,82.2,High,Google Places (public),Chinese,1
+R082,Modern Shanghai Maridien,Chinese,BGC,4.5,391,,81.3,High,Google Places (public),Chinese,1
+R083,City Hot Pot,Chinese,BGC,4.9,1747,,93.0,High,Google Places (public),Chinese,1
+R084,Sabai,Thai,BGC,4.7,651,,86.1,High,Google Places (public),Thai,1
+R085,Mango Tree,Thai,BGC,4.3,1919,3,86.2,Medium,Google Places (public),Thai,0
+R086,Soi Chicken BGC,Thai,BGC,4.6,1106,,87.3,High,Google Places (public),Thai,1
+R087,Krapow BGC,Thai,BGC,4.3,503,2,80.1,Medium,Google Places (public),Thai,0
+R088,Purple Rice Forbes Town,Thai,BGC,4.6,817,,85.9,High,Google Places (public),Thai,1
+R089,Thai Mango BGC,Thai,BGC,4.7,1357,,89.4,High,Google Places (public),Thai,1
+R090,Basil,Thai,BGC,4.6,1128,,87.4,High,Google Places (public),Thai,1
+R091,Ma-Ma-Ci-Ta BGC,Mexican,BGC,4.8,1426,,90.9,High,Google Places (public),Mexican,1
+R092,Agave Mexican Cantina,Mexican,BGC,3.9,935,2,78.1,Low,Google Places (public),Mexican,0
+R093,La Chinesca,Mexican,BGC,4.3,228,,76.5,Medium,Google Places (public),Mexican,0
+R094,Los Tacos MNL,Mexican,BGC,4.7,374,,83.5,High,Google Places (public),Mexican,1
+R095,El Pollo Loco,Mexican,Taguig,4.8,581,,86.8,High,Google Places (public),Mexican,1
+R096,Pound x Flatterie,Burger,BGC,4.1,757,,79.6,Medium,Google Places (public),Burger,0
+R097,Greenlight Burgers,Burger,BGC,4.4,211,,77.3,Medium,Google Places (public),Burger,0
+R098,Burger Beast Uptown,Burger,BGC,4.5,465,,82.1,High,Google Places (public),Burger,1
+R099,Burger & Lobster Manila,American,BGC,4.6,143,,78.0,High,Google Places (public),Other,1
+R100,Raging Bull Burgers,Burger,BGC,4.5,353,,80.9,High,Google Places (public),Burger,1
+R101,Dempsey High Street South,Brunch,BGC,4.3,46,,69.2,Medium,Google Places (public),Other,0
+R102,Wild West Roadhouse Grill,American,BGC,4.3,673,2,81.4,Medium,Google Places (public),Other,0
+R103,8Cuts Uptown BGC,Burger,BGC,4.3,91,,72.3,Medium,Google Places (public),Burger,0
+R104,Royal Indian Curry House,Indian,Taguig,4.9,37,,75.5,Medium,Google Places (public),Other,0
+R105,Queens at Bollywood,Indian,BGC,4.6,576,,84.3,High,Google Places (public),Other,1
+R106,Indus Modern Indian Kitchen,Indian,BGC,4.3,315,,78.0,Medium,Google Places (public),Other,0
+R107,Em Ha Noi,Vietnamese,BGC,4.0,367,,75.1,Medium,Google Places (public),Vietnamese,0
+R108,Ha Noi Pho,Vietnamese,Makati,4.4,448,,80.8,Medium,Google Places (public),Vietnamese,0
+R109,Pho Hoa MyThai Venice,Vietnamese,Taguig,3.8,217,,70.3,Low,Google Places (public),Vietnamese,0
+R110,Pho Hoa My Thai Stopover,Vietnamese,BGC,4.0,160,,71.3,Medium,Google Places (public),Vietnamese,0
+R111,The Red Crab Uptown,Seafood,BGC,4.2,278,,76.2,Medium,Google Places (public),Seafood,0
+R112,CargoFish,Seafood,BGC,4.8,3470,,94.9,High,Google Places (public),Seafood,1
+R113,The Pearl Room Poblacion,Seafood,Makati,4.9,125,,81.0,High,Google Places (public),Seafood,1
+R114,The Pearl Room BGC,Seafood,BGC,4.3,300,,77.7,Medium,Google Places (public),Seafood,0
+R115,Chotto Matcha Forbestown,Cafe,BGC,4.6,393,,82.6,High,Google Places (public),Cafe,1
+R116,Aivee Cafe,Cafe,BGC,3.9,19,,60.5,Low,Google Places (public),Cafe,0
+R117,Aperitif Forbestown,Cafe,BGC,4.5,285,,79.9,High,Google Places (public),Cafe,1
+R118,Eesome,Cafe,BGC,4.3,161,,74.9,Medium,Google Places (public),Cafe,0
+R119,Red Manila BGC,Fusion,BGC,4.8,65,,76.8,Medium,Google Places (public),Other,0
+R120,St. Louis Cafe BGC,Cafe,BGC,4.6,638,2,84.8,High,Google Places (public),Cafe,1
+R121,Larry's Cafe and Bar,Cafe,BGC,4.3,184,,75.5,Medium,Google Places (public),Cafe,0
+R122,Bueno Tapas & Wine,Spanish,BGC,4.8,648,,87.3,High,Google Places (public),Other,1
+R123,Conti's Bakeshop Venice,Filipino,Taguig,4.5,45,,71.5,Medium,Google Places (public),Filipino,0
+R124,Botejyu Venice,Japanese,Taguig,4.6,611,,84.6,High,Google Places (public),Japanese,1
+R125,Mama Lou's Venice,Italian,Taguig,4.7,658,2,86.1,High,Google Places (public),Italian,1
+R126,CIBO Venice,Italian,Taguig,4.8,552,,86.5,High,Google Places (public),Italian,1
+R127,Maker and Made BGC,Cafe,BGC,4.5,533,,82.8,High,Google Places (public),Cafe,1

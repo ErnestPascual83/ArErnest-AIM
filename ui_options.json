@@ -1,0 +1,23 @@
+{
+  "cuisine_group": [
+    "Burger",
+    "Cafe",
+    "Chinese",
+    "Filipino",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Mexican",
+    "Other",
+    "Seafood",
+    "Steak",
+    "Thai",
+    "Vietnamese"
+  ],
+  "district": [
+    "BGC",
+    "Makati",
+    "Pasig",
+    "Taguig"
+  ]
+}
